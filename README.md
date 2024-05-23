@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning new frameworks
 - 💞️ I’m looking to collaborate with startups
-- 📫 kerthanan20@gmail.com
 
 <!---
 kerthanan/kerthanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
